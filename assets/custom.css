@@ -2,3 +2,10 @@
      font-weight: 700;
   color:#000
 }
+
+
+@media screen and (min-width: 990px) {
+.header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
+    display: block;
+}
+}
