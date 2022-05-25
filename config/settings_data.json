@@ -104,7 +104,7 @@
             "type": "announcement",
             "settings": {
               "text": "Envíos GRATIS a todo Colombia",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
