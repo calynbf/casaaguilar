@@ -15,6 +15,7 @@
         "heading"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Enmascarar_grupo_16.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
