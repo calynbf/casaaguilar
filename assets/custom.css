@@ -8,7 +8,8 @@
 }
 .banner--content-align-center .banner__heading {
 color: #2E2E2E;
-  font: normal normal bold 66px/60px Fira Sans;
+font-family: Fira Sans;
+  font-weight:700;
 }
 
 @media screen and (min-width: 990px) {
