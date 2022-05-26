@@ -6,6 +6,10 @@
 .header--top-center>.header__search {
     display: none;
 }
+.banner--content-align-center .banner__heading {
+color: #2E2E2E;
+  font: normal normal bold 66px/60px Fira Sans;
+}
 
 @media screen and (min-width: 990px) {
 .header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
