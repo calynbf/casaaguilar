@@ -135,26 +135,27 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Síguenos",
               "menu": "footer"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
+              "heading": "Términos legales",
               "menu": "footer"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
+              "heading": "Visítanos",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           },
           "41e7ca7b-b877-4a24-a261-0fba567a6cd3": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Heading",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
