@@ -12,6 +12,10 @@ font-family: Fira Sans;
   font-weight:800;
 }
 
+.multicolumn-card__info {
+	position:absolute;
+}
+
 @media screen and (min-width: 990px) {
 .header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
     display: block;
