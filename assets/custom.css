@@ -37,7 +37,8 @@ color:#fff;
 }
 #shopify-section-template--15557974687897__165386038431e5bb00 .banner__buttons a{
 min-height:30px;
-  border-radius:50%:
+  border-radius:50%;
+  font: normal normal bold 22px/26px Karla;
 }
 @media screen and (min-width: 990px) {
 .header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
