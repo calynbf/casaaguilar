@@ -160,13 +160,21 @@
               "heading": "Heading",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "c392c23b-405c-463c-a6e1-f372cd1a3d26": {
+            "type": "image",
+            "settings": {
+              "image_width": 100,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
           "footer-2",
-          "41e7ca7b-b877-4a24-a261-0fba567a6cd3"
+          "41e7ca7b-b877-4a24-a261-0fba567a6cd3",
+          "c392c23b-405c-463c-a6e1-f372cd1a3d26"
         ],
         "settings": {
           "color_scheme": "accent-2",
