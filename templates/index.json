@@ -144,7 +144,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Componente_54_12.jpg",
-            "title": "Column",
+            "title": "Cuadros paramétricos",
             "text": "",
             "link_label": "",
             "link": ""
@@ -153,8 +153,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Componente_54_11.jpg",
+            "title": "Alfombras",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -162,8 +163,19 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Componente_54_14.jpg",
+            "title": "Decoración y accesorios",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0134451d-4be4-4f69-bf6a-26dc47f365cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Componente_54_13.jpg",
+            "title": "Mandalas",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -172,14 +184,15 @@
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "0134451d-4be4-4f69-bf6a-26dc47f365cc"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Producto 100% Colombiano",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
