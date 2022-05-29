@@ -350,6 +350,55 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "165386038431e5bb00": {
+      "type": "image-banner",
+      "blocks": {
+        "16538603845d93839b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nueva colección",
+            "heading_size": "h1"
+          }
+        },
+        "16538603845d93839b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16538603845d93839b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "CONOCE MÁS",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16538603845d93839b-0",
+        "16538603845d93839b-1",
+        "16538603845d93839b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Grupo_1049.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -363,6 +412,7 @@
     "1653858474c5ef0e5e",
     "1653860162139da4ae",
     "165386035106451e5f",
-    "165386009409e4e376"
+    "165386009409e4e376",
+    "165386038431e5bb00"
   ]
 }
