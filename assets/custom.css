@@ -7,14 +7,20 @@
     display: none;
 }
 .banner--content-align-center .banner__heading {
-color: #2E2E2E;
-font-family: Fira Sans;
-  font-weight:800;
+    color: #2E2E2E;
+    font-family: Fira Sans;
+    font-weight:800;
 }
 
 .multicolumn-card__info {
 	position:absolute;
   	bottom:20px;
+  	width:100%;
+  	
+}
+.multicolumn-card__info h3 {
+font: normal normal bold 28px/41px Fira Sans;
+  color:#fff;
 }
 
 @media screen and (min-width: 990px) {
