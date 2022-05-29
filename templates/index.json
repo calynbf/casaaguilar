@@ -283,6 +283,73 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1653860162139da4ae": {
+      "type": "rich-text",
+      "blocks": {
+        "16538601621bed5c7b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Síguenos en instagram",
+            "heading_size": "h1"
+          }
+        },
+        "16538601621bed5c7b-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "16538601621bed5c7b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16538601621bed5c7b-0",
+        "16538601621bed5c7b-1",
+        "16538601621bed5c7b-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165386035106451e5f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"instagram-icon\"><svg id=\"Grupo_1015\" data-name=\"Grupo 1015\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"55.986\" height=\"55.999\" viewBox=\"0 0 55.986 55.999\">\n  <g id=\"Grupo_1013\" data-name=\"Grupo 1013\">\n    <path id=\"Trazado_8727\" data-name=\"Trazado 8727\" d=\"M45.767,13.365A26.639,26.639,0,1,1,19.153,40,26.641,26.641,0,0,1,45.767,13.365m0-1.36a28,28,0,1,0,28,28,28.024,28.024,0,0,0-28-28Z\" transform=\"translate(-17.78 -12.005)\" fill=\"#3c3c3c\"\/>\n  <\/g>\n  <g id=\"Grupo_1014\" data-name=\"Grupo 1014\" transform=\"translate(13.599 13.625)\">\n    <path id=\"Trazado_8728\" data-name=\"Trazado 8728\" d=\"M43.837,13.077H22.663c-2.517,0-3.813,1.347-3.813,3.851V38.064c0,2.428,1.334,3.762,3.7,3.762H43.837c2.466,0,3.813-1.335,3.813-3.787v-21.2C47.65,14.424,46.3,13.077,43.837,13.077Zm-2.326,3.266c2.847,0,2.847,0,2.847,2.86,0,2.771,0,2.771-2.8,2.771-2.834,0-2.834,0-2.834-2.822S38.728,16.343,41.511,16.343Zm-8.249,5.529a5.573,5.573,0,1,1-5.6,5.529A5.7,5.7,0,0,1,33.263,21.872Zm11.1,14.985c-.025,1.347-.369,1.716-1.7,1.716H23.832c-1.309,0-1.69-.369-1.69-1.716,0-3.47.013-7-.051-10.5,0-.991.28-1.207,1.195-1.182,1.322.114,1.347.051,1.195,1.347A8.811,8.811,0,0,0,41.7,29.955a8.768,8.768,0,0,0,.2-4.131c-.1-.508.025-.6.47-.6,1.983-.153,1.983-.178,1.983,1.881Z\" transform=\"translate(-18.85 -13.077)\" fill=\"#3c3c3c\" fill-rule=\"evenodd\"\/>\n  <\/g>\n<\/svg><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165386009409e4e376": {
+      "type": "apps",
+      "blocks": {
+        "630d10fe-e1c9-44bb-bfbf-f80832d32fe8": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-gallery\/blocks\/app-block\/5c329ba9-407e-40ec-a145-431c886f5df9",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "630d10fe-e1c9-44bb-bfbf-f80832d32fe8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -293,6 +360,9 @@
     "video",
     "multicolumn",
     "1653858464a6b77d79",
-    "1653858474c5ef0e5e"
+    "1653858474c5ef0e5e",
+    "1653860162139da4ae",
+    "165386035106451e5f",
+    "165386009409e4e376"
   ]
 }
