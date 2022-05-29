@@ -35,6 +35,9 @@ font: normal normal bold 28px/41px Fira Sans;
 color:#fff;
   
 }
+#shopify-section-template--15557974687897__165386038431e5bb00 .banner__buttons a{
+min-height:30px;
+}
 @media screen and (min-width: 990px) {
 .header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
     display: block;
