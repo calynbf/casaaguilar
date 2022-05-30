@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Enmascarar_grupo_16_d71abbc8-3d6c-4f6b-b4b6-ec3f2891f68e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
