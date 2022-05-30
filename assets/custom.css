@@ -40,6 +40,11 @@ margin-bottom:0px}
     border-radius: 9px;
     padding: 30px 30px;}
 
+.contact-f .contact__button  {text-align:center}
+.contact-f .contact__button .button{
+background: #2E2E2E 0% 0% no-repeat padding-box;
+}
+
 .contact__fields .field,.field {font: italic normal normal 19px/19px Calibri;color: #707070;}
 
 #shopify-section-template--15557974687897__165386038431e5bb00 h2.banner__heading {
