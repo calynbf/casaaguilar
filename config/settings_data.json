@@ -132,11 +132,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "eff301ed-3e30-472f-bada-78f869fd315e": {
+            "type": "text1",
             "settings": {
               "heading": "Síguenos",
-              "menu": "footer"
+              "subtext1": ""
             }
           },
           "footer-1": {
@@ -170,7 +170,7 @@
           }
         },
         "block_order": [
-          "footer-0",
+          "eff301ed-3e30-472f-bada-78f869fd315e",
           "footer-1",
           "footer-2",
           "41e7ca7b-b877-4a24-a261-0fba567a6cd3",
