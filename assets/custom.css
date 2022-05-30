@@ -42,7 +42,9 @@ margin-bottom:0px}
 
 .contact-f .contact__button  {text-align:center}
 .contact-f .contact__button .button{
-background: #2E2E2E 0% 0% no-repeat padding-box;
+    background: #2E2E2E 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    min-height: 40px;
 }
 
 .contact__fields .field,.field {font: italic normal normal 19px/19px Calibri;color: #707070;}
