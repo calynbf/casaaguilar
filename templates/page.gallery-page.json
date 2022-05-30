@@ -6,9 +6,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165392614274a39620": {
+      "type": "collage",
+      "blocks": {
+        "16539261427abd19f1-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "16539261427abd19f1-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "16539261427abd19f1-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "16539261427abd19f1-0",
+        "16539261427abd19f1-1",
+        "16539261427abd19f1-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "165392614274a39620"
   ]
 }
