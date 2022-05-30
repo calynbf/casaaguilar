@@ -47,8 +47,9 @@ margin-bottom:0px}
     min-height: 40px;
 }
 
-
+.contact-f .field textarea,
 .contact-f .field input {background:#F8F4EF}
+
 .contact__fields .field,.field {font: italic normal normal 19px/19px Calibri;color: #707070;}
 
 #shopify-section-template--15557974687897__165386038431e5bb00 h2.banner__heading {
