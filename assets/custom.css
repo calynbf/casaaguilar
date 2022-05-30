@@ -35,6 +35,9 @@ h1.main-page-title.page-title {
 text-align:center;
 font-weight: 800;
 margin-bottom:0px}
+.contact-f {
+border: 1px solid #707070;
+border-radius: 9px;}
 
 #shopify-section-template--15557974687897__165386038431e5bb00 h2.banner__heading {
   font-size: 6rem;
