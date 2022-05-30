@@ -205,7 +205,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "17524978868273665157": {
+        "type": "shopify:\/\/apps\/panda-pre-order\/blocks\/app-embed\/02e330c8-fd22-48e4-bc7e-37f002d683e5",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
