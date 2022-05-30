@@ -46,6 +46,7 @@ margin-bottom:0px}
     border-radius: 50px;
     min-height: 40px;
   letter-spacing: 4.4px;
+  text-transform:uppercase;
 }
 
 .contact-f .field textarea,
