@@ -143,7 +143,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Términos legales",
-              "menu": "footer"
+              "menu": "terminos-legales"
             }
           },
           "footer-2": {
