@@ -2,11 +2,10 @@
 
   {% for block in section.blocks %}
 
-    <div class="item">  	
-       <img src="{{ section.settings.item-image | img_url: '340x510' }}">
-       <span class="item-name">
-           {{ section.settings.item-title | escape }}
-       </span>  		
+    <div class="item">    
+      
+       <img src="{{ section.settings.item-image | img_url: '340x510' }}" 
+            loading="lazy">        		
     </div>
 
   {% endfor %}
@@ -22,25 +21,20 @@
 	"blocks": [
     		{
     			"type": "image",
-    			"name": "items-entry",
+    			"name": "Agregar imagen ",
     			"settings": [
                   {
                     "type": "image_picker",
                     "id": "item-image",
                     "label": "Image of the product"
-                  },
-                  {
-                    "type": "text",
-                    "id": "item-title",
-                    "label": "Title",
-                    "default": "Title of this product"
                   }
+                  
     			]
     		}
 	],
 	"presets": [
     {
-      "name": "image pikkk",
+      "name": "gallery images",
       "blocks": [
         {
           "type": "image"
