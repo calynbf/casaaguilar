@@ -47,10 +47,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1653949610f67970b9": {
+      "type": "gallery-banners",
+      "blocks": {
+        "165394961063ebd7d4-0": {
+          "type": "image",
+          "settings": {
+            "item-image": "shopify:\/\/shop_images\/Enmascarar_grupo_16_d71abbc8-3d6c-4f6b-b4b6-ec3f2891f68e.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "165394961063ebd7d4-0"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "165392614274a39620"
+    "165392614274a39620",
+    "1653949610f67970b9"
   ]
 }
