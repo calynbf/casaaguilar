@@ -49,11 +49,16 @@ min-height:40px;
 
 #shopify-section-template--15557974687897__165386038431e5bb00 .banner__buttons a:after,
 #shopify-section-template--15557974687897__165386038431e5bb00 .banner__buttons a:before{display:none!important }
+
 .section-template--15557974753433__16539230079d230ab0-padding .rich-text__text p{
 	margin-bottom: 0px;
     margin-top: 0px;
   
 }  
+
+.section-template--15557974753433__16539230079d230ab0-padding .rich-text__blocks h4 {
+	font: normal normal bold 24px/42px Karla;
+}
   
 @media screen and (min-width: 990px) {
 .header:not(.header--top-center)>.header__search, .header--top-center *>.header__search {
