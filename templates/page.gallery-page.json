@@ -56,10 +56,17 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Enmascarar_grupo_16_d71abbc8-3d6c-4f6b-b4b6-ec3f2891f68e.jpg"
           }
+        },
+        "1ede9a5d-865d-4202-b6f1-7ef3922cd2b1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Componente_54_13.jpg"
+          }
         }
       },
       "block_order": [
-        "165394961063ebd7d4-0"
+        "165394961063ebd7d4-0",
+        "1ede9a5d-865d-4202-b6f1-7ef3922cd2b1"
       ],
       "settings": {
       }
