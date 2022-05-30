@@ -60,7 +60,7 @@ min-height:40px;
   
   
 @media screen and (min-width: 750px) {
- .footer__content-top .grid:nth-last-child(1) {
+ .footer__content-top .grid .grid__item:nth-last-child(1) {
       width: calc(15% - var(--grid-desktop-horizontal-spacing) * 3 / 4);
 
   }
