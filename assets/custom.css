@@ -201,3 +201,15 @@ grid-row: span 2;
     margin-right: 15px;
     margin-bottom: 15px;
 }}
+
+@media screen and (max-width: 604px){
+.gallery {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    grid-auto-rows: 40px;
+		grid-auto-flow: dense; /* Fill all spaces with fitted images */
+      margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}}
