@@ -1,7 +1,7 @@
-<section class="items">
+<section class="gallery">
 
  {% for block in section.blocks %}
-    <div class="item">  	
+    <div class="full">  	
        <img src="{{ block.settings.image | img_url:'master' }}" alt="{{ block.settings.item-title | escape }}" loading="lazy">
         		
     </div>
