@@ -55,32 +55,37 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_0524.jpg",
-            "item-title": "Title of this product"
+            "item-title": "Title of this product",
+            "class": "w-6"
           }
         },
         "1ede9a5d-865d-4202-b6f1-7ef3922cd2b1": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Componente_54_13.jpg",
-            "item-title": "Title of this product"
+            "item-title": "Title of this product",
+            "class": "full"
           }
         },
         "56e2fcda-a339-4156-9912-81627e010309": {
           "type": "image",
           "settings": {
-            "item-title": "Title of this product"
+            "item-title": "Title of this product",
+            "class": "full"
           }
         },
         "48df8cb7-cee4-487f-b21b-914daa36809b": {
           "type": "image",
           "settings": {
-            "item-title": "Title of this product"
+            "item-title": "Title of this product",
+            "class": "full"
           }
         },
         "94ac28b4-3f2c-43c8-a051-7f7888c02c72": {
           "type": "image",
           "settings": {
-            "item-title": "Title of this product"
+            "item-title": "Title of this product",
+            "class": "full"
           }
         }
       },
