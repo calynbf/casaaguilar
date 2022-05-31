@@ -129,17 +129,38 @@ min-height:40px;
 		grid-auto-flow: dense; /* Fill all spaces with fitted images */
 }
 
-.w-100 {
+.w-6 {
+	grid-column: span 6 ;
+  
+}
+.w-5 {
+	grid-column: span 5 ;
+  
+}
+.w-4 {
 	grid-column: span 4 ;
   
 }
-.w-50 {
+.w-3 {
+	grid-column: span 3 ;
+  
+}
+.w-2 {
 	grid-column: span 2 ;
+  
+}
+.w-1 {
+	grid-column: span 1 ;
   
 }
 
 .h-4 {
 grid-row: span 4;
+
+}
+
+.h-3 {
+grid-row: span 3;
 
 }
 
