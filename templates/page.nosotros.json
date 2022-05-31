@@ -4,11 +4,12 @@
       "type": "main-page",
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "165392614274a39620": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "16539261427abd19f1-0": {
           "type": "video",
@@ -46,10 +47,92 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1653965324bebdbb23": {
+      "type": "rich-text",
+      "blocks": {
+        "1653965324d6a47a0f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "1653965324d6a47a0f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Somos una empresa familiar con 35 años de experiencia, dos generaciones trabajando con amor y pasión especializadas en mobiliario de lujo y alta decoración. <br\/><br\/>Nacimos en xxx cuando (el papá o mamá) funda la empresa en x con el objetivo de x<br\/>En Casa Aguilar creemos en la innovación, excelencia, calidad, belleza y distinción. <br\/>!Somos pasión! ¡Somos amor! ¡Somos Casa Aguilar!<\/p>"
+          }
+        },
+        "1653965324d6a47a0f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1653965324d6a47a0f-0",
+        "1653965324d6a47a0f-1",
+        "1653965324d6a47a0f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "1653965335ca2d50af": {
+      "type": "image-banner",
+      "blocks": {
+        "165396533571b0c920-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contáctanos",
+            "heading_size": "h0"
+          }
+        },
+        "165396533571b0c920-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165396533571b0c920-0",
+        "165396533571b0c920-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_0503_009d72bf-d60f-42aa-a37e-8852d8432863.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
-    "165392614274a39620"
+    "165392614274a39620",
+    "1653965324bebdbb23",
+    "1653965335ca2d50af"
   ]
 }
