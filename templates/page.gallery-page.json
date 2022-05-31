@@ -62,9 +62,9 @@
         "1ede9a5d-865d-4202-b6f1-7ef3922cd2b1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Componente_54_13.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_0422.jpg",
             "item-title": "Title of this product",
-            "class": "full"
+            "class": "w-3 h-4"
           }
         },
         "56e2fcda-a339-4156-9912-81627e010309": {
