@@ -7,6 +7,9 @@
   font-weight:bold;
 }
 .col-totals {padding-top:36px}
+#MainContent #shopify-section-template--15557974884505__cart-items .title-wrapper-with-link{
+margin-top:0px
+}
 
 .cart-items td,
 .cart-items th {
