@@ -7,6 +7,18 @@
   font-weight:bold;
       margin-top: 0px;
 }
+.cart__ctas button {
+    width: 100%;
+    background: transparent;
+    border-radius: 50px!important;
+    border: solid 1px #ccc;
+    color: #000;
+}
+.cart__ctas button:after,
+.cart__ctas button:before {
+ display:none
+}
+
 .col-totals {padding-top:36px}
 #MainContent #shopify-section-template--15557974884505__cart-items .title-wrapper-with-link{
 margin-top:0px
