@@ -1,6 +1,7 @@
 .header--top-center .mega-menu__list>li {
     width: 20%;
     padding-right: 2.4rem;
+  	float:left;
 }
 
 
