@@ -1,5 +1,6 @@
 a.mega-menu__link--level-2 {display:none!important}
-
+#MegaMenu-Content-2 {    background: #fff;}
+#MegaMenu-Content-2 a { color:#fff}
 .product-form__quantity .quantity input,
 .product-form__quantity .quantity .quantity__button{
  border: solid 1px #707070;
