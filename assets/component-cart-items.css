@@ -1,3 +1,6 @@
+#MainContent {max-width: var(--page-width);}
+#MainContent #shopify-section-template--15557974884505__cart-items{}
+#MainContent #shopify-section-template--15557974884505__cart-footer{}
 .cart-items td,
 .cart-items th {
   padding: 0;
