@@ -12,6 +12,13 @@
 }
 
 
+.product-form__submit {
+    margin-bottom: 1rem;
+    border-radius: 50px;
+    border: solid 1px #000;
+}
+
+
 .product-form__quantity .form__label {
  font-weight:bold;
   text-transform:uppercase;
