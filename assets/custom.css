@@ -1,4 +1,4 @@
-.mega-menu__link--level-2 {display:none}
+a.mega-menu__link--level-2 {display:none!important}
 
 .product-form__quantity .quantity input,
 .product-form__quantity .quantity .quantity__button{
