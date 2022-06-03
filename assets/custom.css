@@ -1,5 +1,5 @@
-.product-form__quantity .quantity {
-
+.product-form__quantity .quantity .quantity__button{
+ border: solid 1px #707070;
 }
 
 .product-form__quantity .form__label {
