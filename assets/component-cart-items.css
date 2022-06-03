@@ -2,7 +2,10 @@
 #MainContent #shopify-section-template--15557974884505__cart-items {width:60%;float:left}
 #MainContent #shopify-section-template--15557974884505__cart-footer {width:40%;float:left}
 #MainContent #shopify-section-template--15557974884505__featured-collection {width:100%;float:left}
-
+.titulo_carrito {
+	font-size:18px;
+  font-weight:bold;
+}
 
 .cart-items td,
 .cart-items th {
