@@ -3,8 +3,12 @@
  border: solid 1px #707070;
 }
 .product-form__quantity .quantity input {
-margin-left:15px;
+  margin-left:15px;
   margin-right:15px;
+}
+.quantity {
+
+    width: calc(18rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
 }
 
 
