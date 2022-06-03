@@ -5,6 +5,7 @@
 .titulo_carrito {
 	font-size:18px;
   font-weight:bold;
+      margin-top: 0px;
 }
 .col-totals {padding-top:36px}
 #MainContent #shopify-section-template--15557974884505__cart-items .title-wrapper-with-link{
