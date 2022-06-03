@@ -12,6 +12,8 @@
 }
 
 
+.product-form__submit:before,
+.product-form__submit:after{display:none}
 .product-form__submit {
     margin-bottom: 1rem;
     border-radius: 50px;
