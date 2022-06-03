@@ -1,3 +1,11 @@
+.product-form__quantity .quantity {
+
+}
+
+.product-form__quantity .quantity:before,
+.product-form__quantity .quantity:after{
+	display:none
+}
 .announcement-bar__message {
      font-weight: 700;
   color:#000
