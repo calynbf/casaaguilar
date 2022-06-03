@@ -11,7 +11,7 @@
     width: 100%;
     background: transparent;
     border-radius: 50px!important;
-    border: solid 1px #ccc;
+    border: solid 1px #000;
     color: #000;
 }
 .cart__ctas button:after,
