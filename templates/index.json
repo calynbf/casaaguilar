@@ -167,8 +167,8 @@
             "image": "shopify:\/\/shop_images\/Componente_54_14.jpg",
             "title": "Decoración y accesorios",
             "text": "",
-            "link_label": "",
-            "link": "https:\/\/casa-aguilar.myshopify.com\/"
+            "link_label": "decoraciones",
+            "link": "shopify:\/\/collections\/decoracion-y-accesorios"
           }
         },
         "0134451d-4be4-4f69-bf6a-26dc47f365cc": {
@@ -177,8 +177,8 @@
             "image": "shopify:\/\/shop_images\/Componente_54_13.jpg",
             "title": "Mandalas",
             "text": "",
-            "link_label": "",
-            "link": "#"
+            "link_label": "mandalas",
+            "link": "shopify:\/\/collections\/mandalas"
           }
         }
       },
