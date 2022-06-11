@@ -98,15 +98,19 @@
 
 <script id="globo_preorder_bis_form_template" type="text/template">
   {% unless config.customBisForm.display contains 'hidden' %}
+    {% assign display = config.customBisForm.display %}
+    {% if form == 'grid' %}
+      {% assign display = 'button' %}
+    {% endif %}
     <div id="Globo-Back-In-Stock">
-      {% if config.customBisForm.display contains 'button' %}
+      {% if display == 'button' %}
         <div class="gBackInStock-Button">
           <button class="gBackInStockBtn" type="button">{{translation.bisTextButton}}</button>
         </div>
       {% endif %}
 
-      {% if config.customBisForm.display contains 'form' %}
-      <div class="Globo-form Globo-form-inline">
+      {% if display == 'form' %}
+      <div class="Globo-form Globo-form-inline" data-product-id="{{product.id}}">
         <div class="Globo-form-subscribe">
             {% unless config.hiddenLogoBis %}<div class="Globo-form-header">
               <div class="Globo-header-background">
@@ -131,7 +135,7 @@
                   </div>
                   <div class="Globo-content-form">
                       <input type="hidden" name="variant_id" class="gBackInStock-Form-Variant-Id" id="gBackInStock-Form-Variant-Id-{{variant.id}}" value="{{variant.id}}" />
-                      <select name="bis-id" class="gBackInStock-Form-Select {% if check_variant %} gPreorderHidden {% endif %}">
+                      <select name="bis-id" class="gBackInStock-Form-Select {% if config.check_variant %} gPreorderHidden {% endif %}">
                         {% for v in product.variants %}
                           <option 
                             value="{{v.id}}"
@@ -188,7 +192,7 @@
       <div class="Polaris-Modal-Dialog__Container active">
         <div>
           <div role="dialog" aria-labelledby="modal-header2" tab-index="-1" class="Polaris-Modal-Dialog">
-            <div class="Globo-form Globo-form-popup">
+            <div class="Globo-form Globo-form-popup" data-product-id="{{product.id}}">
                 <div class="Globo-form-subscribe">
                   {% unless config.hiddenLogoBis %}<div class="Globo-form-header">
                     <div class="Globo-header-background">
@@ -215,7 +219,7 @@
                         </div>
                         <div class="Globo-content-form">
                           <input type="hidden" name="variant_id" class="gBackInStock-Form-Variant-Id" id="gBackInStock-Form-Variant-Id-{{variant.id}}" value="{{variant.id}}" />
-                          <select name="bis-id" class="gBackInStock-Form-Select {% if check_variant %} gPreorderHidden {% endif %}">
+                          <select name="bis-id" class="gBackInStock-Form-Select {% if config.check_variant %} gPreorderHidden {% endif %}">
                             {% for v in product.variants %}
                               <option 
                                 value="{{v.id}}"
