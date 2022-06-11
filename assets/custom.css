@@ -6,7 +6,10 @@
 
 
 body .product-form__buttons .gPreorderBtn {
-background:#000!important
+background:#000!important;
+ 
+    border: 0px solid #D61F2C!important;
+
 }
 
 #MegaMenu-Content-2 {    background: #fff;}
